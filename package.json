@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/webber0928/line-sample#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "axios": "^1.3.4",
+    "@line/bot-sdk": "^7.5.2"
   }
 }
