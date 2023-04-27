@@ -1,0 +1,320 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://webzz.co/global/og-dark.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "320:213"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "聯博精選美國基金",
+                        "weight": "bold",
+                        "size": "sm",
+                        "wrap": true
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4.0",
+                                "size": "xs",
+                                "color": "#8c8c8c",
+                                "margin": "md",
+                                "flex": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "baseline",
+                                "spacing": "sm",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "發生什麼事",
+                                        "wrap": true,
+                                        "color": "#8c8c8c",
+                                        "size": "xs",
+                                        "flex": 5
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "矽谷銀行衝擊金融股，美股道瓊指數3/6~3/10單週下跌超過1500點",
+                                        "size": "xs",
+                                        "wrap": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "了解更多",
+                            "uri": "https://webzz.co/fundviews/oA5aM61cbJ9QnBQi"
+                        }
+                    }
+                ],
+                "spacing": "sm",
+                "paddingAll": "13px"
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://webzz.co/global/og-dark.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "320:213"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": " 法巴能源轉型股票基金",
+                        "weight": "bold",
+                        "size": "sm",
+                        "wrap": true
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4.0",
+                                "size": "sm",
+                                "color": "#8c8c8c",
+                                "margin": "md",
+                                "flex": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "baseline",
+                                "spacing": "sm",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "發生什麼事",
+                                        "wrap": true,
+                                        "color": "#8c8c8c",
+                                        "size": "xs",
+                                        "flex": 5
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "本基金近1個月跌幅達 -15.97% (2023.02.02 - 2023.03.02)",
+                                        "size": "xxs",
+                                        "wrap": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "了解更多",
+                                    "uri": "https://webzz.co/fundviews/CGJ8d2KY7BcurOrd"
+                                },
+                                "style": "link"
+                            }
+                        ]
+                    }
+                ],
+                "spacing": "sm",
+                "paddingAll": "13px"
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "url": "https://webzz.co/global/og-dark.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "320:213"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "安聯收益成長基金",
+                        "weight": "bold",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                            },
+                            {
+                                "type": "icon",
+                                "size": "xs",
+                                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4.0",
+                                "size": "sm",
+                                "color": "#8c8c8c",
+                                "margin": "md",
+                                "flex": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "baseline",
+                                "spacing": "sm",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "發生什麼事",
+                                        "wrap": true,
+                                        "color": "#8c8c8c",
+                                        "size": "xs",
+                                        "flex": 5
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "美國9月份核心通膨率重返40年高點，支持年末聯準會持續大幅升息的可能性。截至10月14日止，當週標普500指數及NASDAQ指數單周分別下跌1.97%和3.83%",
+                                        "size": "xxs",
+                                        "wrap": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "了解更多",
+                                    "uri": "https://webzz.co/fundviews/mmZg0zm_o1EbmbXE"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "spacing": "sm",
+                "paddingAll": "13px"
+            }
+        }
+    ]
+}
